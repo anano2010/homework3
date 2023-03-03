@@ -1,0 +1,200 @@
+.gradient{
+    background: linear-gradient( #6E6EFD,#3636DE);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color:transparent ;
+}
+.conteiner{
+    display: flex;
+}
+.text{
+position: absolute;
+width: 801.4px;
+height: 76px;
+left: 334.6px;
+top: 226px;
+
+font-family: 'Proxima Nova';
+font-style: normal;
+font-weight: 700;
+font-size: 60px;
+line-height: 84px;
+
+
+text-align: center;
+letter-spacing: -2.50105px;
+
+color: #19191B;
+}
+.conteiner1{
+    position: absolute; 
+left: 121px;
+top: 378px;
+width:386.33px ;
+height: 437px;
+
+background: linear-gradient(0deg, #FFFFFF, #FFFFFF), url(image.png);
+box-shadow: 0px 202.825px 490.554px rgba(120, 120, 168, 0.17);
+border-radius: 40px;
+}
+.img1{
+    position: absolute;
+    left: 112px;
+top: 17.43px;
+
+filter: drop-shadow(0px 4px 34px rgba(0, 0, 0, 0.13));
+}
+.text1{
+    position: absolute;
+left: 18.55%;
+right: 20.86%;
+top: 51% ;
+bottom: 33.75%;
+
+font-family: 'Proxima Nova';
+font-style: normal;
+font-weight: 700;
+font-size: 45px;
+line-height: 66px;
+
+
+text-align: center;
+letter-spacing: -2.50105px;
+
+color: #19191B;
+}
+.text2{
+    position: absolute;
+left: -39.52%;
+right: -39.15%;
+top: 68.6%;
+bottom: 28.95%;
+
+font-family: 'Proxima Nova';
+font-style: normal;
+font-weight: 500;
+font-size: 21px;
+line-height: 39px;
+
+text-align: center;
+letter-spacing: -0.656526px;
+
+color: #696871;
+
+}
+.conteiner2{
+   position: absolute; 
+left: 542.62px;
+top: 378px;
+width:386.33px ;
+height: 437px;
+
+background: linear-gradient(0deg, #FFFFFF, #FFFFFF), url(image.png);
+box-shadow: 0px 202.825px 230px rgba(120, 120, 168, 0.07);
+border-radius: 40px;
+}
+.img2{
+    
+    position: absolute;
+    width: 323.9px;
+   height: 148.38px;
+left: 80.9px;
+top: -8px;
+
+
+}
+.text3{
+    position: absolute;
+left: 24.37%;
+right: 42.12%;
+top: 52.8%;
+bottom: 33.75%;
+
+font-family: 'Proxima Nova';
+font-style: normal;
+font-weight: 700;
+font-size: 45px;
+line-height: 66px;
+
+
+text-align: center;
+letter-spacing: -2.50105px;
+
+color: #19191B;
+
+}
+.text4{
+  position: absolute; 
+left: 2.76%;
+right: 0.57%;
+top: 67.6%;
+bottom: 10.51%;
+
+font-family: 'Proxima Nova';
+font-style: normal;
+font-weight: 500;
+font-size: 21px;
+line-height: 39px;
+
+
+text-align: center;
+letter-spacing: -0.656526px;
+
+color: #696871;
+
+}
+.conteiner3{
+   position: absolute;
+    left: 964.24px;
+    top: 378px;
+    width:386.33px ;
+    height: 437px;
+
+background: linear-gradient(0deg, #FFFFFF, #FFFFFF), url(image.png);
+box-shadow: 0px 202.825px 490.554px rgba(120, 120, 168, 0.17);
+border-radius: 40px;
+}
+.img3{
+    
+    position: absolute;
+    
+    left: 74.33px;
+    top: 5.33px;
+    
+  
+}
+.text5{
+    position: absolute;
+left: 13.28%;
+right: 14.54%;
+top: 54.42%;
+bottom: 33.75%;
+font-family: 'Proxima Nova';
+font-style: normal;
+font-weight: 700;
+font-size: 45px;
+line-height: 66px;
+
+text-align: center;
+letter-spacing: -2.50105px;
+
+color: #19191B;
+}
+.text6{
+    position: absolute;
+left: 4.04%;
+top: 68%;
+right: 9.29%;
+bottom: 32.51%;
+
+font-family: 'Proxima Nova';
+font-style: normal;
+font-weight: 500;
+font-size: 21px;
+line-height: 39px;
+
+
+text-align: center;
+letter-spacing: -0.656526px;
+
+color: #696871;
+}
